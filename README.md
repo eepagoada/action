@@ -17,7 +17,7 @@ The time we greeted you.
 ## Example usage
 
 ```yaml
-uses: actions/hello-world-action-enrrin@v1.1
+uses: eepagoada/hello-world-action-enrrin@v1.1
 with:
   who-to-greet: 'Mona the Octocat'
 ```
